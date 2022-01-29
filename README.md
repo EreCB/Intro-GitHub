@@ -13,4 +13,5 @@ Charla impartida por **Jesús López**, del GSDC de Guanajuato.
  Sesión de GitHub
 
 ### Insertaremos una imagen
-![avatar](C:\Users\eresa\Documents\Imágenes\Wallpapers\Uyuni_garza.jpg)
+
+![water](img\Agua.jpg)
