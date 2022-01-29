@@ -14,4 +14,4 @@ Charla impartida por **Jesús López**, del GSDC de Guanajuato.
 
 ### Insertaremos una imagen
 
-![water](img\Agua.png)
+![water](img/Agua.png)
